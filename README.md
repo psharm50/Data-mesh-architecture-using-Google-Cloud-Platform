@@ -6,7 +6,7 @@ Key features:
 
 •	Implementation 1 : HR - Finance domain communication using attendance data  
 •	Implementation 2 : Covid India and Covid US Dataset Analysis
-•	Pub/Sub mechanism to enable message transfer in the form of JSON and CSV files across domains.
+•	Pub/Sub mechanism to enable message transfer in the form of JSON and CSV files across domains
 •	ETL process to scrub the data
 •	UI interface using HTML to perform tasks on GCP
 •	Hosting the website on pythonanywhere.com
