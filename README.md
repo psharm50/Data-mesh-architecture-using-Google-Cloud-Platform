@@ -1,5 +1,7 @@
 # Data-mesh-architecture-using-Google-Cloud-Platform
 
+The Project is an implementation of Publisher Subscriber mechanism between 5 domains as a Proof of concept for Data mesh architecture
+
 Tools used : Python, Flask, Google Cloud Platform, Pub/Sub , Big Query, Google Cloud Storage, IAM Permissions.
 
 Key features:
